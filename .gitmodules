@@ -1,3 +1,6 @@
 [submodule "Attendance-Taker"]
 	path = Attendance-Taker
 	url = git@github.com:sourovw/Attendance-Taker.git
+[submodule "Mathematics"]
+	path = Mathematics
+	url = git@github.com:sourovw/Mathematics.git
